@@ -1,3 +1,3 @@
 # GuessMyNumber
 
-<h1>An interactive number guessing game</h1>
+<h4>An interactive number guessing game</h4>
