@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Guess My Number</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body style="background-color: #222">
+    <button onclick="restart()">Again!</button>
+    <p class="range">(Between 1 and 20)</p>
+    <h1 class="title">Guess My Number!</h1>
+    <div class="num">
+      <hr />
+      <h1 id="num">?</h1>
+    </div>
+    <div class="text">
+      <h4 class="status">Start guessing...</h4>
+      <h4 class="score">💯 Score: <span class="currentScore">20</span></h4>
+      <h4 class="hscore">🥇 Highscore: <span class="highScore">0</span></h4>
+    </div>
+    <input
+      type="number"
+      id="number"
+      onkeydown="getValue()"
+      style="background-color: #222"
+    />
+    <button class="check" type="button">Check!</button>
+    <script src="script.js"></script>
+  </body>
+</html>
