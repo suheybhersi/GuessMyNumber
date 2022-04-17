@@ -1,3 +1,6 @@
-# An interactive number guessing game
+# Guess My Number
 
+An interactive number guessing game
 You can access it by clicking <a href="https://suheybhersi.github.io/GuessMyNumber/">here</a>
+
+<!-- ![](ReadMeImages/) -->
