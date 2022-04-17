@@ -13,5 +13,5 @@ You can access it by clicking <a href="https://suheybhersi.github.io/GuessMyNumb
 <img src="ReadMeImages/GuessTooHigh.png" width="650">
 <h2>Screen when the guess is right</h2>
 <img src="ReadMeImages/RightGuess.png" width="650">
-<h2>Start again button which resets the score and keeps the previous highest score</h2>
+<h2>Start again</h2>
 <img src="ReadMeImages/StartAgain.png">
