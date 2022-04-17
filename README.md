@@ -9,7 +9,7 @@ You can access it by clicking <a href="https://suheybhersi.github.io/GuessMyNumb
 
 <h2>Message when the guess is too low</h2>
 <img src="ReadMeImages/GuessTooLow.png" width="650">
-<h2>Message when the guess is too low</h2>
+<h2>Message when the guess is too high</h2>
 <img src="ReadMeImages/GuessTooHigh.png" width="650">
 <h2>Screen when the guess is right</h2>
 <img src="ReadMeImages/RightGuess.png" width="650">
